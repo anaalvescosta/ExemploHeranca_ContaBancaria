@@ -1,0 +1,15 @@
+C:\projC#\ex01T7M10\ex01T7M10\bin\Debug\net6.0\ex01T7M10.exe
+C:\projC#\ex01T7M10\ex01T7M10\bin\Debug\net6.0\ex01T7M10.deps.json
+C:\projC#\ex01T7M10\ex01T7M10\bin\Debug\net6.0\ex01T7M10.runtimeconfig.json
+C:\projC#\ex01T7M10\ex01T7M10\bin\Debug\net6.0\ex01T7M10.dll
+C:\projC#\ex01T7M10\ex01T7M10\bin\Debug\net6.0\ex01T7M10.pdb
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.csproj.AssemblyReference.cache
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.GeneratedMSBuildEditorConfig.editorconfig
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.AssemblyInfoInputs.cache
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.AssemblyInfo.cs
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.csproj.CoreCompileInputs.cache
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.dll
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\refint\ex01T7M10.dll
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.pdb
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ex01T7M10.genruntimeconfig.cache
+C:\projC#\ex01T7M10\ex01T7M10\obj\Debug\net6.0\ref\ex01T7M10.dll
